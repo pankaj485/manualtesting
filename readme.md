@@ -1,4 +1,4 @@
-[resource](https://www.youtube.com/watch?v=QJqNYhiHysM&t=724s)
+# [learning resource](https://www.youtube.com/watch?v=QJqNYhiHysM&t=724s)
 
 [why testing is required](#why-testing-is-required)
 
